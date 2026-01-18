@@ -1,8 +1,6 @@
 # 🎓 LearnLab
 **Personalized Learning Platform with Adaptive Curriculum**
 
-🌐 **[View Live Application](https://langgraph-personalized-learning-pla.vercel.app)**
-
 > **An intelligent learning platform that diagnoses knowledge gaps, generates personalized lessons, and adapts curriculum in real-time based on performance—powered by LangGraph and AI.** ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -213,8 +211,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
 
-
-[Live Demo](https://langgraph-personalized-learning-pla.vercel.app) 
 
 Made with ❤️ and ☕ by [Derril Filemon](https://github.com/derril-tech)
 
